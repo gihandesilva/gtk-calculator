@@ -1,4 +1,4 @@
-gkt-calculator
+gtk-calculator
 ==============
 
 A simple calculator written in C language with gtk+
